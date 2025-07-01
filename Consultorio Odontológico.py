@@ -1,4 +1,6 @@
-#Programa - trabajo final
+#Programa - trabajo final de promoción
+#Materia:Algoritmos y estructura de datos
+#Alumno: Marcos Ariel Argüello
 #Sistema de gestión de un consultorio odontológico
 
 #Área de funciones y TAD's
